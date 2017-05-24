@@ -3,13 +3,15 @@ Snack Voting Application
 
 Built a small functional snack voting application:
 
-Frontend: HTMl,CSS,BootStrap
+Frontend: HTML,CSS,BootStrap
 
 Backend:  PHP
 
 Database: MySQL
 
-Login Details: 2 users 
+
+
+Authentical Info for Sam and John:
 
 username: sam
 password: nyc
