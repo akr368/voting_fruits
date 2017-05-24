@@ -11,7 +11,7 @@ Database: MySQL
 
 
 
-Authentical Info for Sam and John:
+Authentication Info for Sam and John:
 
 username: sam
 password: nyc
