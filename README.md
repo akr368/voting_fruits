@@ -13,9 +13,6 @@ Database: MySQL
 
 Authentication Info for Sam and John:
 
-username: sam
-        password: nyc
-
-username: john
-password: nyc
+username: sam  | password: nyc
+username: john | password: nyc
 
