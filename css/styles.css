@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.snack{
+	width:100%;
+	margin:10px;}
+
+.snackimage{
+	display:inline;
+	margin-left:12px;
+	margin-right:22px;
+	width:98px;
+	height:102px;}
+
+.snackname{
+	width:101px;
+	display:inline-block;
+	margin-right:11px;
+	font-size:21px;
+	font-weight:589;
+
+	}
+
+.votes{
+	display:inline;
+
+}
+
+.votebutton{
+	display:inline;
+
+	}
